@@ -8,3 +8,5 @@ birdclef-2023-offline-models/
 birdclef-2023-offline-packages/
 .ipynb_checkpoints/
 *.csv
+*.bak
+models/
